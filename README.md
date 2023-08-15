@@ -1,2 +1,2 @@
-# RestCountry
-SearchCountry
+# RestCountries
+RestCountries
